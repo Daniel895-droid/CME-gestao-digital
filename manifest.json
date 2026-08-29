@@ -1,0 +1,16 @@
+{
+  "name": "CME Digital",
+  "short_name": "CME",
+  "description": "Gestão, rastreabilidade e qualidade da Central de Material e Esterilização.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#143844",
+  "theme_color": "#143844",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icone.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icone-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
